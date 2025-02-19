@@ -1,10 +1,10 @@
 # CAPITULO 19 - Imagens De Fundo
 
-- 1. Adicionando Imagens em um Fundo:
+ 1. Adicionando Imagens em um Fundo:
 
 `background-image: url("caminho da imagem");`
 
-- 2. Quando a imagem e menor do que o background ela e repetida ate preencher o espaco do background do conteiner:
+ 2. Quando a imagem e menor do que o background ela e repetida ate preencher o espaco do background do conteiner:
 
 
 ```
@@ -19,7 +19,7 @@ background-repeat: repeat-x;
 
 <img src="PREENCHIMENTO DO BACKGROUND.png">
 
-- 3. Posição De Inicio das Repetições:
+ 3. Posição De Inicio das Repetições:
 
 background-position: orientação;
 
