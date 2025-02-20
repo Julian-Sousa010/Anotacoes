@@ -49,9 +49,13 @@ Padrão: `left top;`
 
 ``` 
 background-color: blue;
+
 background-image: url(caminho da imagem);
+
 background-position: center center;
+
 background-repeat: no-repeat;
+
 background-attachment: fixed;
 ```
 
@@ -62,8 +66,12 @@ Exemplo:
 ## 7. Centralização Vertical em Conteineres:
 
 ```
+
 position: absolute;
+
 left: 50%;
+
 top: 50%;
+
 transform: translate(-50%, -50%);
 ```
