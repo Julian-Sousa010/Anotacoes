@@ -23,6 +23,10 @@ background-repeat: repeat-x;
 
 `background-position: valor;`
 
-Padrão: left top;
+Padrão: `left top;`
 
 <img src="REFERENCIA DE INICIO DE REPETIÇÃO.png">
+
+ 4. Tamanho Da Imagem De Fundo:
+
+ `background-size: valor;`
