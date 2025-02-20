@@ -66,7 +66,6 @@ Exemplo:
 ## 7. Centralização Vertical em Conteineres:
 
 ```
-
 position: absolute;
 
 left: 50%;
