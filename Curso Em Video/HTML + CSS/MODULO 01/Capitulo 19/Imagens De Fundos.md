@@ -36,4 +36,4 @@ Padrão: `left top;`
  - `cover`: Define o tamanho da imagem para que ela seja sempre exibida na tela, sem nenhum corte.
  - `contain`: Redimensiona a imagem para que ela cubra o contêiner, mesmo que para isso ocorram alguns eventuais cortes.
 
- <img src="VALORES BACKGROUND-SIZE.png"
+ <img src="VALORES BACKGROUND-SIZE.png">
